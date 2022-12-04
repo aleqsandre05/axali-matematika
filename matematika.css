@@ -1,0 +1,137 @@
+body{
+    width: 1000px;
+    background-color: darkcyan;
+}
+.name{
+    font-size: 50px;
+    position: relative;
+    left: 550px;
+    margin-bottom: 80px;
+}
+.first{
+    border-style: solid;
+    border-radius: 15px;
+    width: 150px;
+    height: 150px;
+    font-size: 35px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
+.first:hover{
+background-color: gray;
+color: limegreen;
+}
+.firquestion{
+font-size: 45px;
+margin-bottom: 80px;
+position: relative;
+left: 200px;
+}
+.firstQuestion{
+    position: relative;
+    left: 400px;
+}
+
+.seconde{
+    border-style: solid;
+    border-radius: 15px;
+    width: 150px;
+    height: 150px;
+    font-size: 35px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
+.seconde:hover{
+background-color: gray;
+color: limegreen;
+}
+.secquestion{
+font-size: 45px;
+margin-bottom: 80px;
+position: relative;
+left: 200px;
+}
+.secondQuestion{
+    position: relative;
+    left: 400px;
+    display: none;
+}
+
+
+.third{
+    border-style: solid;
+    border-radius: 15px;
+    width: 150px;
+    height: 150px;
+    font-size: 35px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
+.third:hover{
+background-color: gray;
+color: limegreen;
+}
+.thiquestion{
+font-size: 45px;
+margin-bottom: 80px;
+position: relative;
+left: 200px;
+}
+.thirdQuestion{
+    position: relative;
+    left: 400px;
+    display: none;
+}
+
+
+.four{
+    border-style: solid;
+    border-radius: 15px;
+    width: 150px;
+    height: 150px;
+    font-size: 35px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
+.four:hover{
+background-color: gray;
+color: limegreen;
+}
+.forquestion{
+font-size: 45px;
+margin-bottom: 80px;
+position: relative;
+left: 200px;
+}
+.fourthQuestion{
+    position: relative;
+    left: 400px;
+    display: none;
+}
+
+
+
+.fifve{
+    border-style: solid;
+    border-radius: 15px;
+    width: 150px;
+    height: 150px;
+    font-size: 35px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
+.five:hover{
+background-color: gray;
+color: limegreen;
+}
+.fivquestion{
+font-size: 45px;
+margin-bottom: 80px;
+position: relative;
+left: 200px;
+}
+.fifthQuestion{
+    position: relative;
+    left: 400px;
+    display: none;
+}
